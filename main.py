@@ -1,5 +1,4 @@
 import itertools
-import time
 
 
 def is_even(n):
